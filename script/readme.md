@@ -108,6 +108,11 @@ Create `profile.json`
        }
 ```
 
+### Grant
+```
+planqd tx authz grant plq1csj5g5j4r682apvjckdk3qldkup4y0742nl8ac generic --msg-type /cosmos.staking.v1beta1.MsgDelegate --from wallet
+```
+
 ### Edit Permissions
 ```
 cd $HOME/restake
