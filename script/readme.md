@@ -75,15 +75,6 @@ done >$HOME/restake.log 2>&1 &
 }
 ```
 
-### Create Network.json `Restake/src`
-```
-  {
-    "name": "planq",
-    "prettyName": "planq",
-    "gasPrice": "30000000000aplanq",
-    "ownerAddress": "plqvaloperxxxxxxxxxxxxx"
-  },
-  ```
   
   ### Submit Your Operator Validator
 ### Make PullRequest >>> [PR](https://github.com/eco-stake/validator-registry)
