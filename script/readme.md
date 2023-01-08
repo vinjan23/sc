@@ -49,6 +49,14 @@ done >$HOME/restake.log 2>&1 &
 
 ### Create Network.local.json `Restake/src`
 ```
+nano $HOME/restake/src/networks.local.json
+```
+nano $HOME/restake/src/networks.local.json
+```
+nano &HOME /restake/src/network.local.json
+```
+
+```
 {
   "planq": {
     "prettyName": "planq",
