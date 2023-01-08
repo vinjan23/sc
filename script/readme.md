@@ -19,6 +19,7 @@ git clone https://github.com/eco-stake/restake
 cd restake
 npm install
 cp .env.sample .env
+nano .env
 ```
 ### Update NPM
 ```
