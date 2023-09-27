@@ -1,5 +1,9 @@
 ```
-cd $HOME
+sudo apt-get update
+sudo apt-get install screen
+```
+```
+screen -S auto
 ```
 
 ```
@@ -10,4 +14,6 @@ chmod +x autocompound.sh
 ```
 ./autocompound.sh
 ```
-
+- exit & running background
+  
+`Crtl A + D`
