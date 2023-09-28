@@ -17,3 +17,11 @@ chmod +x autocompound.sh
 - exit & running background
   
 `Crtl A + D`
+
+```
+wget https://raw.githubusercontent.com/vinjan23/sc/main/command/autoself.sh
+chmod +x autoself.sh
+```
+```
+./autoself.sh
+```
