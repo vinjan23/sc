@@ -19,7 +19,7 @@ chmod +x autocompound.sh
 `Crtl A + D`
 
 ```
-wget https://raw.githubusercontent.com/vinjan23/sc/main/autoself.sh
+wget https://raw.githubusercontent.com/vinjan23/sc/main/command/autoself.sh
 chmod +x autoself.sh
 ```
 ```
